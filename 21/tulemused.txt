@@ -1,0 +1,6 @@
+aaa, Kaotasid! Ületasid 21!, 25
+be, Kaotasid! Ületasid 21!, 23
+be, Võitsid! Vastane ületas 21!, 10
+aaa, Kaotasid! Ületasid 21!, 25
+aaa, Võitsid!, 19
+aa, Kaotasid! Ületasid 21!, 22
